@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\bin\Debug\button.ornek12.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\bin\Debug\button.ornek12.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\bin\Debug\button.ornek12.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.lblCarpim.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.12\button.ornek12\button.ornek12\obj\Debug\button.ornek12.pdb
